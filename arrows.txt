@@ -4,3 +4,61 @@ Fill the starlit sky
 The ship glides gently on the waves
 As day turns into night
 
+[33mcommit f0d0db8a6ad0d055d876f359e0c38ec5b673683a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: session1[m[33m)[m
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 14:46:11 2023 +0300
+
+    add a new song
+
+[33mcommit de276c985a7a457651ab2b92d53dd1348df396dc[m
+Merge: 8028f92 fefa082
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 14:17:32 2023 +0300
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       arrows.txt
+
+[33mcommit 8028f924a9c563bd980825d0d4caee16a51deb8f[m
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 14:12:43 2023 +0300
+
+    add one couplet
+
+[33mcommit fefa0825fdbb4ae1f794ea9d840bcb98878bcc07[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 14:06:09 2023 +0300
+
+    on branch feature
+
+[33mcommit 13706e39dd9f324143dd740850cbe31f32006ca7[m
+Merge: 1c8cf11 c42d64d
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 13:55:57 2023 +0300
+
+    solve conflict
+
+[33mcommit c42d64d320fd698cc0ce8c009f2bbbc23e7e22b0[m
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Thu Feb 2 12:35:26 2023 +0300
+
+    add two couplet
+
+[33mcommit 1c8cf1126deba1ae50a99de7f94ef6fa8306d2ff[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DMITRII DENISOV <122356423+dmitriidn@users.noreply.github.com>
+Date:   Tue Jan 31 22:34:51 2023 +0300
+
+    add two more lines to the song
+
+[33mcommit 001dd382f99fbacd1983849a43479845a4c659cc[m
+Author: Dmitrii Denisov <dd681129@gmail.com>
+Date:   Tue Jan 31 22:31:01 2023 +0300
+
+    add first two lines in the song
+
+[33mcommit d822602208a3748aed239d2dda07dc1e40c3b704[m
+Author: DMITRII DENISOV <122356423+dmitriidn@users.noreply.github.com>
+Date:   Tue Jan 31 22:15:05 2023 +0300
+
+    Initial commit
